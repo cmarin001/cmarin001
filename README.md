@@ -1,6 +1,6 @@
 # Full-Stack Developer
 
-👋 Hi, I'm a seasoned Full-Stack Developer with 4 years of experience in building enterprise-level web applications. My expertise encompasses object-oriented programming, particularly with the Spring framework, and I'm well-versed in Agile methodologies.
+👋 Hi, I'm a seasoned Full-Stack Developer with 5 years of experience in building enterprise-level web applications. My expertise encompasses object-oriented programming, particularly with the Spring framework and Angular, and I'm well-versed in Agile methodologies.
 &nbsp;&nbsp;
 ## 🚀 Some Tools I Use
 
